@@ -18,3 +18,6 @@ Copy `bin/Release/net48/MT2ModManager.dll` to:
 
 Hit **F1** to toggle the menu (configurable).
 
+
+VERY LIGHTWEIGHT DOES NOTHING RIGHT NOW BUT SHOW YOU YOUR MODS INSTALLED
+
